@@ -33,7 +33,7 @@
 * 🧠 **Machine Learning Engineer** — [SOFTSHOP S.A.](https://www.linkedin.com/in/efrain-ortiz--/) *(2026 - Actualidad)*  
   Serving on-premise de LLMs/VLMs con **vLLM**, pipelines de RAG multimodal con **Milvus**, y APIs en producción con **FastAPI, Docker, Prometheus y Grafana**.
 
-* 🤖 **International Robotics Competitor** — Team Spark & Team UCSA *(2023 - Actualidad)*  
+* 🤖 **International Robotics Competitor** — Team Spark *(2025 - Actualidad)*  
   Representante en el **VEX Robotics World Championship**. Desarrollo en **C++** de navegación autónoma, control PID y optimización en tiempo real para robots de competencia.
 
 <br/>
